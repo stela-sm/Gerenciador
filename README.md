@@ -23,10 +23,10 @@ Um simples e eficiente Gerenciador de Tarefas desenvolvido com **React** e **Typ
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/gerenciador-tarefas-react-ts.git
+git clone https://github.com/stela-sm/Gerenciador
 
 # Acesse a pasta do projeto
-cd gerenciador-tarefas-react-ts
+cd Gerenciador
 
 # Instale as dependências
 npm install
